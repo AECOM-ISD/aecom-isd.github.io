@@ -13,12 +13,13 @@
     <script src='js/FBXLoader.js'></script>
     <script src='js/OrbitControls.js'></script>
     <style>
-        html,body{
+       html,body{
     margin: 0px;
     padding: 0px;
     height: 100%;
     width: 100%;
     overflow: hidden;
+    background: linear-gradient(to bottom, #0a7282 0%,#d2f0ff 100%);
     }
     * { touch-action: pan-y; }
 
@@ -122,10 +123,10 @@
         // camera.lookAt(pos);
 
         // 渲染器
-        renderer = new THREE.WebGLRenderer();
+        renderer = new THREE.WebGLRenderer({alpha:true});
 
         //背景颜色修改一下
-        renderer.setClearColor(0xf0f0f0);
+        // renderer.setClearColor(0xf0f0f0);
         renderer.setSize(window.innerWidth, window.innerHeight);
 
         //显示在窗体
