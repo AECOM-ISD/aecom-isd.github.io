@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Quest2Controllerfortarget2" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="Quest2Controllerfortarget2s_assembly" assemblyId="be7f1029d7ef44a4883d26c8861b6043">
+<Part name="Quest2Controllerfortarget2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.00344485 0.0372989 0.36762" rotation="AD: 0.997979 -0.143004 0.51835 207.302" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
