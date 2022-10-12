@@ -1,0 +1,36 @@
+@font-face {
+   font-family: "AECOM Sans";
+   src: url("fonts/AECOM Sans Bold.woff") format("woff"), url("fonts/AECOM Sans Bold.eot") format("embedded-opentype"), url("fonts/AECOM Sans Bold.ttf") format("truetype"), url("fonts/AECOM Sans Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "AECOM Sans";
+   src: url("fonts/AECOM Sans Bold Italic.woff") format("woff"), url("fonts/AECOM Sans Bold Italic.eot") format("embedded-opentype"), url("fonts/AECOM Sans Bold Italic.ttf") format("truetype"), url("fonts/AECOM Sans Bold Italic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "AECOM Sans";
+   src: url("fonts/AECOM Sans Italic.woff") format("woff"), url("fonts/AECOM Sans Italic.eot") format("embedded-opentype"), url("fonts/AECOM Sans Italic.ttf") format("truetype"), url("fonts/AECOM Sans Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "AECOM Sans";
+   src: url("fonts/AECOM Sans.woff") format("woff"), url("fonts/AECOM Sans.eot") format("embedded-opentype"), url("fonts/AECOM Sans.ttf") format("truetype"), url("fonts/AECOM Sans.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "AECOM Sans XBold";
+   src: url("fonts/AECOM Sans XBold.woff") format("woff"), url("fonts/AECOM Sans XBold.eot") format("embedded-opentype"), url("fonts/AECOM Sans XBold.ttf") format("truetype"), url("fonts/AECOM Sans XBold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "AECOM Sans XBold";
+   src: url("fonts/AECOM Sans XBold Italic.woff") format("woff"), url("fonts/AECOM Sans XBold Italic.eot") format("embedded-opentype"), url("fonts/AECOM Sans XBold Italic.ttf") format("truetype"), url("fonts/AECOM Sans XBold Italic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
