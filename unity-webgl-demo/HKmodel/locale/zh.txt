@@ -1,0 +1,30 @@
+#: locale=zh
+
+## Media
+
+### Title
+panorama_386A3ED6_2C0E_D744_41AD_EDE0E1B16804.label = Street View 360
+model_204467AA_2C12_F5CC_41AE_F614A0DC6D9C.label = hktest
+photo_3DC07BAF_2C11_3DC4_41AA_62DE438FF4E3.label = or8drjewblxvg8acmoqy
+
+## Popup
+
+### Body
+htmlText_3EFA9F0F_2C11_D6C4_41C1_C7BC6674DDD2.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;">香港會議展覽中心（簡稱會展；英語：Hong Kong Convention and Exhibition Centre，縮寫：HKCEC）是香港的主要大型會議及展覽場地，位於香港島灣仔北填海區，是香港最著名的地標之一；由香港政府及香港貿易發展局共同擁有，由新創建集團的全資附屬機構香港會議展覽中心（管理）有限公司管理。每年舉辦7項亞洲最大規模及4項世界最大規模展覽，亦會舉行大型書展和演唱會。 </SPAN></DIV></BODY></HTML></div>
+htmlText_3EFA9F0F_2C11_D6C4_41C1_C7BC6674DDD2.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;">香港會議展覽中心（簡稱會展；英語：Hong Kong Convention and Exhibition Centre，縮寫：HKCEC）是香港的主要大型會議及展覽場地，位於香港島灣仔北填海區，是香港最著名的地標之一；由香港政府及香港貿易發展局共同擁有，由新創建集團的全資附屬機構香港會議展覽中心（管理）有限公司管理。每年舉辦7項亞洲最大規模及4項世界最大規模展覽，亦會舉行大型書展和演唱會。 </SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_3EFC8F09_2C11_D6CC_41C0_F60768345670.title = 香港會展中心
+window_3EFC8F09_2C11_D6CC_41C0_F60768345670.title = 香港會展中心
+
+## Skin
+
+### Label
+Label_217CCBAD_2C13_DDC7_41B7_20A0F461D9AE.text = 3D Model Test
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Web 3D Test
