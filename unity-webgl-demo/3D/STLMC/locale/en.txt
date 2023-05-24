@@ -1,0 +1,13 @@
+#: locale=en
+
+## Media
+
+### Title
+model_498E9F48_427B_6E58_41BC_5EDF9FA19D14.label = combine_tile
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 3
