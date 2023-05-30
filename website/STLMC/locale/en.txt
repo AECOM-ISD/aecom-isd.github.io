@@ -10,4 +10,4 @@ model_7AC86718_6ADF_E961_41D3_C86EEEBF1BBA.label = STLMC-massing terrain
 ### Description
 
 ### Title
-tour.name = Untitled 11
+tour.name = STLMC 3D
