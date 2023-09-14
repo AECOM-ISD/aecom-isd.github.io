@@ -1,0 +1,51 @@
+#: locale=en
+
+## E-Learning
+
+### Question Screen
+quizQuestion_6BAAE42E_4C38_83F4_41BB_79D075241A84.ok = OK
+
+### Report Screen
+quizScore_6BA8C42E_4C38_83F4_4183_79DE4C31EC9C.title = - SCORE -
+quizScore_6BA8C42E_4C38_83F4_4183_79DE4C31EC9C.completion = Completed
+quizScore_6BA8C42E_4C38_83F4_4183_79DE4C31EC9C.questionsCorrect = Correct
+quizScore_6BA8C42E_4C38_83F4_4183_79DE4C31EC9C.downloadCSV = Download .csv
+quizScore_6BA8C42E_4C38_83F4_4183_79DE4C31EC9C.questionsIncorrect = Incorrect
+quizScore_6BA8C42E_4C38_83F4_4183_79DE4C31EC9C.items = Items Found
+quizScore_6BA8C42E_4C38_83F4_4183_79DE4C31EC9C.questions = Questions
+quizScore_6BA8C42E_4C38_83F4_4183_79DE4C31EC9C.repeat = Repeat
+quizScore_6BA8C42E_4C38_83F4_4183_79DE4C31EC9C.submitToLMS = Submit
+quizScore_6BA8C42E_4C38_83F4_4183_79DE4C31EC9C.elapsedTime = Time
+
+### Score Name
+score1.label = Score 1
+
+### Timeout Screen
+quizTimeout_6BAAF42D_4C38_83F4_41AC_B2CC9AD849AA.title = - TIMEOUT -
+quizTimeout_6BAAF42D_4C38_83F4_41AC_B2CC9AD849AA.repeat = Repeat
+quizTimeout_6BAAF42D_4C38_83F4_41AC_B2CC9AD849AA.score = View Score
+
+## Media
+
+### Title
+model_5E82C62B_5261_B46D_41CA_134B110B26CB.label = STLMC_test
+panorama_1FC2A93C_3C28_85D4_41C7_39F33F224C81.label = thumbnail
+
+## Skin
+
+### Button
+Button_5165B355_5E7E_BBB6_41CC_83ECBAD14E09.label = VIEW 1
+Button_4E59AD8D_5E79_6E96_41D1_B99541052F38.label = VIEW 2
+Button_4ECC46B5_5E79_9AF7_41AA_0112D21F3B0C.label = VIEW 3
+Button_79B02ABA_667B_EAF2_41D2_E57B54E7CA0C.label = VIEW 3
+
+### Label
+Label_9F355BDE_83F3_B5DC_41CA_F7492C8DAA78.text = Label
+
+## Tour
+
+### Description
+tour.description = Visualizations of the Major Findings and Elements of the EIA Report
+
+### Title
+tour.name = STLMC_test
