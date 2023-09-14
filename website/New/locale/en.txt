@@ -1,5 +1,10 @@
 #: locale=en
 
+## Action
+
+### URL
+WebFrame_8B3921DE_92BB_D2F2_41D4_37F9085B4C98.url = ../_webframe/loading/loading.html
+
 ## E-Learning
 
 ### Question Screen
